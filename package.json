@@ -1,7 +1,10 @@
 {
+  "type":"module",
   "dependencies": {
+    
     "inquirer": "^9.2.15",
     "install": "^0.13.0",
     "jest": "^29.7.0"
+   
   }
 }
